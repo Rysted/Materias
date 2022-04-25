@@ -3,8 +3,7 @@ crea, lista, filtra o borra Materias.
 
 Comandos para la consola: node app.js [listar] - [crear 'materia'] - [filtrar 'progreso'] - [borrar 'materia']
 
-Ejemplos:
-
+Ejemplos:<>
   [node app.js listar]
   
   [node app.js crear matematica]
