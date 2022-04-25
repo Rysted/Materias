@@ -5,10 +5,10 @@ Comandos para la consola: node app.js [listar] - [crear 'materia'] - [filtrar 'p
 
 Ejemplos:
 
-  [node app.js listar]
+  node app.js listar
   
-  [node app.js crear matematica]
+  node app.js crear matematica
   
-  [node app.js filtrar terminada]
+  node app.js filtrar terminada
   
-  [node app.js borrar matematica]
+  node app.js borrar matematica
