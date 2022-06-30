@@ -1,14 +1,44 @@
 # Materias
-crea, lista, filtra o borra Materias.
+* Crear - Listar - Filtrar - borrar
 
-Comandos para la consola: node app.js [listar] - [crear 'materia'] - [filtrar 'progreso'] - [borrar 'materia']
 
-Ejemplos:
+## Prerrequisitos 📋
 
-  node app.js listar
-  
-  node app.js crear matematica
-  
-  node app.js filtrar terminada
-  
-  node app.js borrar matematica
+* Se necesita Node.Js para utilizar el software.
+
+```
+https://nodejs.org/es/
+```
+
+## Comandos de consola. 🚀
+* Ejecuta los siguientes comandos en la terminal.
+
+### Obten la lista de comandos: 
+```
+node app
+```
+
+#### obten la lista de tareas.
+```
+node app listar
+```
+
+#### Crea una materia.
+```
+node app crear matematica
+```
+
+#### Obten una lista de tareas filtrada
+```
+node app filtrar terminada
+```
+
+#### Borrar una materia.
+```
+node app borrar matematica
+```
+
+
+## Autor ✒️
+
+* #### [sebastianszz](https://github.com/sebastianszz)
