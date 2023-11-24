@@ -37,8 +37,3 @@ node app filtrar terminada
 ```
 node app borrar matematica
 ```
-
-
-## Autor ✒️
-
-* #### [sebastianszz](https://github.com/sebastianszz)
